@@ -5,6 +5,5 @@ The README is a file containnns about the repository.
 
 ///
 ////
-<<<<<<< HEAD
 ////3
 
